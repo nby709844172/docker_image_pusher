@@ -1,2 +1,2 @@
-flannel/flannel-cni-plugin:v1.5.1-flannel1
-flannel/flannel:v0.25.5
+registry.k8s.io/ingress-nginx/controller:v1.10.3
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
