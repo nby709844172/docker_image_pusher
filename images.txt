@@ -1,1 +1,1 @@
-ikubernetes/myapp:v7
+registry.k8s.io/node-problem-detector:v0.1
